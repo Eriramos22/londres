@@ -1,0 +1,39 @@
+@charset "UTF_8";
+
+nav {
+
+text-align: center;
+background-color: black;
+
+}
+a{
+    text-decoration: none;
+    margin-right: 40px;
+    font-size: 2em;
+    
+}
+section{
+    display: flex;
+}
+article{
+    border: 1px solid
+    
+    
+}
+header{
+    text-align: center;
+    margin: 0%;
+}
+body{
+
+    margin: 0%;
+}
+nav a{
+    color: white;
+}
+main{
+
+
+    background-color: black;
+    color: white;
+}
